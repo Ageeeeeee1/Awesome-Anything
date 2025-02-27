@@ -153,3 +153,4 @@ A paper list for Anything AI
 | [Generalized Decoding for Pixel, Image and Language](https://arxiv.org/abs/2212.11270) | Xueyan Zou | CVPR'23 | Multi Tasking  |
 | [Pre-Trained Image Processing Transformer](https://arxiv.org/abs/2012.00364) | Chen, Hanting | CVPR'21 | Low-level Vision |
 
+
